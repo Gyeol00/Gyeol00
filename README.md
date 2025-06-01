@@ -9,13 +9,13 @@
 
 <table align="center">
   <tr>
-    <td width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
     </td>
-    <td width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /><br>Spring
     </td>
-    <td width="96">
+    <td align="center" width="96">
       <strong>JSP</strong><br>(Java Server Pages)
     </td>
     <td align="center" width="96">
@@ -72,16 +72,16 @@
 
 ---
 
-### 🔗 프로젝트
+### 🔗 Project
 
 - [이커머스 시스템](https://github.com/Gyeol00/ecommerce)  
 - [개인 포트폴리오 웹사이트](...)
 
 ---
 
-### 📫 연락처
+### 📫 Contact
 
-- 이메일: gyeol000726@gmail.com  
+- email: gyeol000726@gmail.com  
 - [LinkedIn](https://linkedin.com/in/...)  
 
 ---
