@@ -5,18 +5,17 @@
 
 ---
 
-### 🛠 기술 스택
 <h3 align="center">🛠 Tech Stack</h3>
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
     </td>
-    <td align="center" width="96">
+    <td width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /><br>Spring
     </td>
-    <td align="center" width="96">
+    <td width="96">
       <strong>JSP</strong><br>(Java Server Pages)
     </td>
     <td align="center" width="96">
