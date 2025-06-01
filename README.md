@@ -1,4 +1,3 @@
-<div align="center">
 <h1>안녕하세요! 👋 저는 백엔드 개발자 Gyeol 입니다.</h1>
 
 <p>👩‍💻 Java와 Spring 기반의 웹 개발을 주로 하며, 클라우드와 컨테이너 기술에도 관심이 많습니다.<br>
@@ -6,9 +5,15 @@
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+### 📜 Certifications
+<p>정보처리산업기사 (Industrial Engineer Information Processing), 2024<br>
+SQLD (SQL Developer), 2025</p>
 
-<table align="center">
+---
+
+<h3>🛠 Tech Stack</h3>
+
+<table>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
@@ -90,4 +95,3 @@ email: gyeol000726@gmail.com
 ---
 
 ![Visitor Count](https://profile-counter.glitch.me/Gyeol00/count.svg)
-</div>
