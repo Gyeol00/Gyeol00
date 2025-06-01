@@ -5,9 +5,9 @@
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
