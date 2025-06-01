@@ -64,8 +64,9 @@
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/JSP_Logo.svg" width="48" height="48" alt="JSP" /><br>JSP
-    </td>
+  <strong>JSP</strong><br>(Java Server Pages)
+</td>
+
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /><br>Spring
     </td>
