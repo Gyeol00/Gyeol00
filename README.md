@@ -17,6 +17,9 @@
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /><br>Spring
     </td>
     <td align="center" width="96">
+      <strong>JSP</strong><br>(Java Server Pages)
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
     </td>
     <td align="center" width="96">
@@ -24,9 +27,6 @@
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <strong>JSP</strong><br>(Java Server Pages)
     </td>
   </tr>
   <tr>
