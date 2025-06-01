@@ -1,8 +1,8 @@
 <div align="center">
-# 안녕하세요! 👋 저는 백엔드 개발자 Gyeol 입니다.
+<h1>안녕하세요! 👋 저는 백엔드 개발자 Gyeol 입니다.</h1>
 
-👩‍💻 Java와 Spring 기반의 웹 개발을 주로 하며, 클라우드와 컨테이너 기술에도 관심이 많습니다.  
-이커머스 프로젝트를 비롯해 다양한 서비스 개발 경험이 있습니다.
+<p>👩‍💻 Java와 Spring 기반의 웹 개발을 주로 하며, 클라우드와 컨테이너 기술에도 관심이 많습니다.<br>
+이커머스 프로젝트를 비롯해 다양한 서비스 개발 경험이 있습니다.</p>
 
 ---
 
@@ -40,13 +40,13 @@
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/elasticsearch/005571" width="48" height="48" alt="Elasticsearch" /><br>Elasticsearch
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br>Docker
     </td>
   </tr>
   <tr>
@@ -65,25 +65,27 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
     </td>
+    <!--
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
+      <img src="https://cdn.simpleicons.org/elasticsearch/005571" width="48" height="48" alt="Elasticsearch" /><br>Elasticsearch
     </td>
+    -->
   </tr>
 </table>
 
 ---
 
 ### 🔗 Project
-
-- [이커머스 시스템](https://github.com/Gyeol00/ecommerce)  
-- [개인 포트폴리오 웹사이트](...)
-
+<!--
+[이커머스 시스템](https://github.com/Gyeol00/ecommerce)  
+[개인 포트폴리오 웹사이트](...)
+-->
 ---
 
 ### 📫 Contact
 
-- email: gyeol000726@gmail.com  
-- [LinkedIn](https://linkedin.com/in/...)  
+email: gyeol000726@gmail.com  
+<!--[LinkedIn](https://linkedin.com/in/...)-->
 
 ---
 
