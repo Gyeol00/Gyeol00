@@ -82,6 +82,14 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,react,mysql,redis,git,linux,aws,docker,postman,bootstrap" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40" />
+  <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="40" />
+  <strong>JSP</strong>
+</p>
+
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
