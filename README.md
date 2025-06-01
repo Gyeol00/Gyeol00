@@ -1,3 +1,4 @@
+<div align="center">
 # 안녕하세요! 👋 저는 백엔드 개발자 Gyeol 입니다.
 
 👩‍💻 Java와 Spring 기반의 웹 개발을 주로 하며, 클라우드와 컨테이너 기술에도 관심이 많습니다.  
@@ -87,3 +88,4 @@
 ---
 
 ![Visitor Count](https://profile-counter.glitch.me/Gyeol00/count.svg)
+</div>
