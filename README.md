@@ -84,9 +84,9 @@ SQLD (SQL Developer), 2025</p>
 
 | 프로젝트명 | 설명 | 기술 스택 | 기간 |
 |-----------|------|-----------|------|
-| 🛍 [롯데ON 클론 프로젝트](https://github.com/Gyeol00/lotteon) | Spring Boot 기반 쇼핑몰 클론 프로젝트로, 상품, 장바구니, 회원, 관리자 기능 구현 및 GitHub Actions 기반 CI/CD 자동 배포 적용 | Java, Spring Boot, MySQL, Redis, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.04.11 ~ 2025.05.23 |
-| 🏫 [그린대학교 시스템](https://github.com/Gyeol00/greenUniversity) | Spring 기반의 학사 관리 시스템으로 학생, 성적, 공지사항 관리 기능 구현 및 GitHub Actions를 활용한 CI/CD와 AWS EC2 배포 적용 | Java, Spring MVC, MySQL, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.03.11 ~ 2025.04.04 |
-| 🛒 [팜스토리 쇼핑몰](https://github.com/Gyeol00/farmStory) | Java JSP 기반의 쇼핑몰 구현 프로젝트로 게시판, 상품 목록, 장바구니, 주문, 관리자 기능 포함 | Java, JSP, MySQL, HTML5, CSS3, JavaScript | 2025.03.04 ~ 2025.03.07 |
+| 🛍 [롯데ON 클론 팀 프로젝트](https://github.com/Gyeol00/lotteon) | Spring Boot 기반 쇼핑몰 클론 프로젝트로, 상품, 장바구니, 회원, 관리자 기능 구현 및 GitHub Actions 기반 CI/CD 자동 배포 적용 | Java, Spring Boot, MySQL, Redis, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.04.11 ~ 2025.05.23 |
+| 🏫 [그린대학교 시스템 팀 프로젝트](https://github.com/Gyeol00/greenUniversity) | Spring 기반의 학사 관리 시스템으로 학생, 성적, 공지사항 관리 기능 구현 및 GitHub Actions를 활용한 CI/CD와 AWS EC2 배포 적용 | Java, Spring MVC, MySQL, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.03.11 ~ 2025.04.04 |
+| 🛒 [팜스토리 쇼핑몰 팀 프로젝트](https://github.com/Gyeol00/farmStory) | Java JSP 기반의 쇼핑몰 구현 프로젝트로 게시판, 상품 목록, 장바구니, 주문, 관리자 기능 포함 | Java, JSP, MySQL, HTML5, CSS3, JavaScript | 2025.03.04 ~ 2025.03.07 |
 
 > 각 프로젝트 리포지토리에 들어가면 자세한 설명 확인 가능합니다.
 <!--
