@@ -83,8 +83,7 @@ SQLD (SQL Developer), 2025</p>
 | 프로젝트명 | 설명 | 기술 스택 | 기간 |
 |-----------|------|-----------|------|
 | 📦 [상품 검색 최적화 시스템 with Elasticsearch](https://github.com/Gyeol00/ElasticSearch) | 쇼핑몰 상품 목록 데이터를 크롤링하여 MySQL에 저장하고, Logstash로 Elasticsearch에 자동 연동 후 Nori 형태소 분석기로 검색 정확도 개선. Kibana를 통해 데이터 시각화도 구현 | Docker, Java, Spring Boot, MySQL, Logstash, Elasticsearch, Kibana, HTML5, CSS3, JavaScript | 2025.05.28 ~ 진행 중 |
-| 📣 [사내 커뮤니티 게시판 사이트 (React 기반)](https://github.com/Gyeol00/LinkON_React) | 사내 커뮤니티 게시판 사이트를 Java, Spring, MySQL, React 기반으로 구현 /
-회원 관리, 게시판 CRUD, 파일 업로드, 지도 API 등 다양한 기능을 포함하여 프론트·백엔드 전반을 개발 | Java, Spring Boot, JSP, Thymeleaf, MySQL, Public Cloud, RESTful API, GitHub, Google Analytics, Lotte Members Open Platform, PC, Mobile | 2025.05.26 ~ 진행 중 |
+| 📣 [사내 커뮤니티 게시판 사이트 (React 기반)](https://github.com/Gyeol00/LinkON_React) | 사내 커뮤니티 게시판 사이트를 Java, Spring, MySQL, React 기반으로 구현 / 회원 관리, 게시판 CRUD, 파일 업로드, 지도 API 등 다양한 기능을 포함하여 프론트·백엔드 전반을 개발 | Java, Spring Boot, JSP, Thymeleaf, MySQL, Public Cloud, RESTful API, GitHub, Google Analytics, Lotte Members Open Platform, PC, Mobile | 2025.05.26 ~ 진행 중 |
 | 🛍 [롯데ON 클론 팀 프로젝트](https://github.com/Gyeol00/LotteON_Clone_Team_Project) | Spring Boot 기반 쇼핑몰 클론 프로젝트로, 상품, 장바구니, 회원, 관리자 기능 구현 및 GitHub Actions 기반 CI/CD 자동 배포 적용 | Java, Spring Boot, MySQL, Redis, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.04.11 ~ 2025.05.23 |
 | 🏫 [그린대학교 시스템 팀 프로젝트](https://github.com/Gyeol00/greenUniversity) | Spring 기반의 학사 관리 시스템으로 학생, 성적, 공지사항 관리 기능 구현 및 GitHub Actions를 활용한 CI/CD와 AWS EC2 배포 적용 | Java, Spring MVC, MySQL, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.03.11 ~ 2025.04.04 |
 | 🛒 [팜스토리 쇼핑몰 팀 프로젝트](https://github.com/Gyeol00/farmStory) | Java JSP 기반의 쇼핑몰 구현 프로젝트로 게시판, 상품 목록, 장바구니, 주문, 관리자 기능 포함 | Java, JSP, MySQL, HTML5, CSS3, JavaScript | 2025.03.04 ~ 2025.03.07 |
